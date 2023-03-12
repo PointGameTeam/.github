@@ -1,4 +1,5 @@
 # Minecraft Pointgame Server
+A large Minecraft little game server
 
 ## Introduce
 👋 Hi! We are the official open source organization of PointGame</br>
