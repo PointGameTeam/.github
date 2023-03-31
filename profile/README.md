@@ -10,8 +10,6 @@ A large Minecraft little game server
 ## Open source project
 - PG-API-Lang (🌏 International management API)
 - PG-API-PlayerInfo (🎮 Player information management API)
-- PointGameLang (🌏 International management)
-- PointGamePlayerInfo (🎮 Player information management)
 
 ## Development Environment
 - Minecraft 1.16.5
